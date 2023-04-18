@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋 My name is Jun Hwang
+
+
+### Front-End Developer
+
+I'm a front-end developer with a passion for creating beautiful and intuitive user interfaces. I recently completed the full stack web development bootcamp at UCLA. I am always eager to learn new technologies and frameworks to improve my skills and stay up-to-date with the latest industry trends.
 
 <!--
 **jhwang2525/jhwang2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
