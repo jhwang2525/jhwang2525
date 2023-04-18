@@ -44,19 +44,7 @@ I'm a front-end developer with a passion for creating beautiful and intuitive us
 
   
 
-<br/>  
-
   
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 
 <br />
