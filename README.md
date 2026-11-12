@@ -8,7 +8,7 @@ I'm a front-end developer with a passion for creating beautiful and intuitive us
 - 🌍 Based in Los Angeles  
   
 
-- 👨‍💻  Read more about my projects [Here](https://jhwang2525.github.io/jun-portfolio/)  
+- 👨‍💻  Read more about my projects [Here](https://jhwang2525.github.io)  
   
 
 <br/>  
